@@ -25,12 +25,7 @@
 - API Testing
 - Web Application Testing
 
-📚 Currently learning
 
-- Selenium
-- Playwright
-- CI/CD
-- Docker
 
 ---
 
@@ -38,12 +33,12 @@
 
 | Domain | Primary / Proficient | Comfortable | Currently Learning |
 |---------|----------------------|-------------|--------------------|
-| **Testing** | ![Robot Framework](https://img.shields.io/badge/Robot_Framework-black?style=for-the-badge&logo=robotframework&logoColor=white) ![Manual Testing](https://img.shields.io/badge/Manual_Testing-1E90FF?style=for-the-badge) | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![API Testing](https://img.shields.io/badge/API_Testing-00B894?style=for-the-badge) | ![Playwright](https://img.shields.io/badge/Playwright-45BA4B?style=for-the-badge&logo=playwright&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white) |
+| **Testing** | ![Robot Framework](https://img.shields.io/badge/Robot_Framework-black?style=for-the-badge&logo=robotframework&logoColor=white) ![Manual Testing](https://img.shields.io/badge/Manual_Testing-1E90FF?style=for-the-badge) | ![API Testing](https://img.shields.io/badge/API_Testing-00B894?style=for-the-badge) | 
 | **Programming** | ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge) | ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
-| **Database** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) | |
-| **Version Control** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) | | |
+| **Database** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | 
+| **Version Control** | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) | | 
 | **Framework** | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) | | |
-| **Tools** | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white) | ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
+| **Tools** | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white) |  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
 
 ---
 
@@ -54,34 +49,16 @@
 - Test Plan
 - Test Case
 - Test Scenario
-- Regression Testing
-- Smoke Testing
-- Functional Testing
-- User Acceptance Testing (UAT)
+
 
 ### Automation Testing
 
 - Robot Framework
 - Browser Library
-- Data Driven Testing
-
-### API Testing
-
-- Postman
-- REST API
-- JSON Validation
+  
 
 ### Database
-
 - SQL Query
-- Data Validation
-- CRUD Testing
-
-### Bug Management
-
-- Bug Reporting
-- Defect Tracking
-- Root Cause Analysis
 
 ---
 
@@ -116,20 +93,8 @@
 
 ---
 
-## 📚 BookShop Management System
 
-- Spring Boot
-- MySQL
-- Web Application Testing
 
----
-
-## 🍽 Restaurant Review System
-
-- Spring Boot
-- Manual Testing
-
----
 
 # 📊 GitHub Stats
 
@@ -157,11 +122,7 @@
 
 📧 Email
 
-your.email@example.com
-
-💼 LinkedIn
-
-https://linkedin.com/in/yourprofile
+rungarunthaokhamsaen@gmail.com
 
 💻 GitHub
 
