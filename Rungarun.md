@@ -1,0 +1,1 @@
+I am an Information Technology student at Maejo University aspiring to become a QA Engineer / Software Tester. I am passionate about web application testing, software quality assurance, and continuously learning new technologies to ensure the delivery of reliable, high-quality software.
