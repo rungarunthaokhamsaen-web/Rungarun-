@@ -106,15 +106,6 @@
 
 </p>
 
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight"/>
-
-</p>
 
 ---
 
@@ -124,9 +115,6 @@
 
 rungarunthaokhamsaen@gmail.com
 
-💻 GitHub
-
-https://github.com/YOUR_USERNAME
 
 ---
 
